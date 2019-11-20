@@ -1,9 +1,11 @@
 # Policy Gradients
 This repo is a TensorFlow implementation of the policy gradients assignment from Dr. Sergey Levine's CS 294-112 
-Deep Reinforcement Learning. The code to run the experiments for this project can be found in the repo along with 
-the code to plot and log the results. The code to plot and log the results along with the initial starter code were 
-provided with the assighment. Videos of some of the trained agents as well as the results for each experiment are shown and discussed
-below:
+Deep Reinforcement Learning. The assignment description can be found in the included PDF. 
+
+The code to run the experiments for this project can be found in the repo along with the code to plot and log the results. 
+The code to plot and log the results along with the initial starter code were provided with the assighment. 
+
+Videos of some of the trained agents as well as the results for each experiment are shown and discussed below:
 
 # Videos
 
